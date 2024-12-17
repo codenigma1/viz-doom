@@ -56,12 +56,9 @@ To improve learning efficiency, the model is trained progressively across scenar
 
 **Scenario**
 
-**Basic Scenario** Fundamental movement and action
+**Basic Scenario** and **Defend the Center**
 
 <img src="media/basic.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
-
-
-**Defend the Center** Stationary defense against enemies
 <img src="media/deadly-definer.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
 
 
