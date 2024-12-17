@@ -63,7 +63,7 @@ Basic Scenario and Defend the Center
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="media/basic.gif" alt="Deep Learning Approach Demo" width="350" height="auto"> <img src="media/deadly-definer.gif" alt="Deep Learning Approach Demo" width="350" height="auto"> </div>
 Deadly Corridor Complex navigation and combat
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="media/s1.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> <img src="media/s2.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> <img src="media/s3.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> <img src="media/s4.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> <img src="media/s5.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> </div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">S1 Doom Skill = 1 <img src="media/s1.gif" alt="Reinforcement Learning Doom" width="350" height="auto">S1 Doom Skill = 2 <img src="media/s2.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> S1 Doom Skill = 3 <img src="media/s3.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> S1 Doom Skill = 4 <img src="media/s4.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> S1 Doom Skill = 5 <img src="media/s5.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> </div>
 
 ---
 
