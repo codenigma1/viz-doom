@@ -57,17 +57,20 @@ To improve learning efficiency, the model is trained progressively across scenar
 **Scenario**
 
 **Basic Scenario** Fundamental movement and action
-![Basic Scenario](media/basic.gif) 
+
+<img src="media/basic.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
+
 
 **Defend the Center** Stationary defense against enemies
-![Defend Center](media/deadly-definer.gif) 
+<img src="media/deadly-definer.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
+
 
 **Deadly Corridor** Complex navigation and combat
-![Deadly Corridor S1](media/s1.gif) |  ![Deadly Corridor S2](media/s2.gif)
-
-![Deadly Corridor S3](media/s3.gif) |  ![Deadly Corridor S4](media/s4.gif)
-
-![Deadly Corridor S5](media/s5.gif)
+<img src="media/s1.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
+<img src="media/s2.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
+<img src="media/s3.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
+<img src="media/s4.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
+<img src="media/s5.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
 
 ---
 
