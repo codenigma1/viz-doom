@@ -1,0 +1,6 @@
+vizdoom
+torch
+gym
+opencv-python
+stable_baselines3
+shimmy
