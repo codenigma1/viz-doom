@@ -58,18 +58,16 @@ To improve learning efficiency, the model is trained progressively across scenar
 
 **Basic Scenario** and **Defend the Center**
 
-<img src="media/basic.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
-<img src="media/deadly-definer.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
+Basic Scenario and Defend the Center
 
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="media/basic.gif" alt="Deep Learning Approach Demo" width="350" height="auto"> <img src="media/deadly-definer.gif" alt="Deep Learning Approach Demo" width="350" height="auto"> </div>
+Deadly Corridor Complex navigation and combat
 
-**Deadly Corridor** Complex navigation and combat
-<img src="media/s1.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
-<img src="media/s2.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
-<img src="media/s3.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
-<img src="media/s4.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
-<img src="media/s5.gif" alt="Reinforcement Learing Doom" width="350" height="auto">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="media/s1.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> <img src="media/s2.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> <img src="media/s3.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> <img src="media/s4.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> <img src="media/s5.gif" alt="Reinforcement Learning Doom" width="350" height="auto"> </div>
 
 ---
+
+
 
 
 **📊 Example Training Graphs:**
